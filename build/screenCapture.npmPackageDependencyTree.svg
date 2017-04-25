@@ -5,7 +5,7 @@
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ webrtc.io@0.0.4 </tspan>
-<tspan x="10" y="90">  └─┬ ws@2.2.3 </tspan>
+<tspan x="10" y="90">  └─┬ ws@2.3.1 </tspan>
 <tspan x="10" y="106">    ├── safe-buffer@5.0.1 </tspan>
 <tspan x="10" y="122">    └── ultron@1.1.0</tspan>
 </text>
